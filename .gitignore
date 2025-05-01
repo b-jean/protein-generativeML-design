@@ -1,0 +1,27 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+
+# Ignore Conda environments (optional if you save them inside project)
+env/
+venv/
+.venv/
+protein_env/
+
+# Ignore VS Code settings
+.vscode/
+*.code-workspace
+
+# Ignore data/output files (if generated)
+data/
+results/
+
+# MacOS junk
+.DS_Store
+
