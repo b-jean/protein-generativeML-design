@@ -1,4 +1,5 @@
 Protein Generative ML Design
+
 This repository explores machine learning and deep learning methods for generative protein design, with a focus on immunoglobulin-like scaffolds (e.g., antibodies, NANOBODIES®). It is inspired by recent advancements in self-supervised learning, large language models (LLMs), and diffusion models applied to protein structures.
 
 Project Goals
